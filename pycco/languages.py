@@ -60,6 +60,8 @@ supported_languages = {
 
     ".erl": lang("erlang", "%%"),
 
+    ".rs": lang("rust", "//@"),
+
     ".tcl": lang("tcl", HASH),
 
     ".hs": lang("haskell", DASH_DASH, "{-", "-}"),
